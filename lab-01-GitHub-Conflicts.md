@@ -1,4 +1,4 @@
-Team Lab 01 - GitHub Conflicts
+Red Team
 ================
 
 # Learning goals
