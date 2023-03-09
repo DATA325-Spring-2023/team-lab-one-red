@@ -1,5 +1,5 @@
 ---
-title: "Team Blue Not Team Red"
+title: "Red Team"
 output: github_document
 ---
 

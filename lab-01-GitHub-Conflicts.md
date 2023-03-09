@@ -1,4 +1,4 @@
-Team Blue Not Team Red
+Red Team
 ================
 
 # Learning goals
