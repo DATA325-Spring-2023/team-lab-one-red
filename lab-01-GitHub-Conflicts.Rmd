@@ -1,9 +1,11 @@
 ---
-title: "Team Lab 01 - GitHub Conflicts"
+title: "Red Team"
 output: github_document
 ---
 
+
 ```{r Green_team, include = FALSE}
+
 knitr::opts_chunk$set(eval = TRUE)
 ```
 
