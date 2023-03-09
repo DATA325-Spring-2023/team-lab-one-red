@@ -3,7 +3,7 @@ title: "Team Lab 01 - GitHub Conflicts"
 output: github_document
 ---
 
-```{r setup, include = FALSE}
+```{r red_team, include = FALSE}
 knitr::opts_chunk$set(eval = TRUE)
 ```
 
